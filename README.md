@@ -148,6 +148,7 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 
 
 
+
 ### Viva-Voce Questions
 
 •	What is a Half Adder, and what are its limitations compared to a Full Adder?
